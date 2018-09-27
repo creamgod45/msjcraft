@@ -331,7 +331,7 @@
 
     .overflow-i { overflow: initial ; }
 	
-	.overflow-a { overflow: auto ; }
+    .overflow-a { overflow: auto ; }
 
     .valign-t { vertical-align: top !important ; }
 
