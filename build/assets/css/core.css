@@ -1,339 +1,340 @@
+    /* Editor:CreamGod45 2018/11/06 */
     /* #include<css.import> */
 
     @import url('https://fonts.googleapis.com/css?family=Indie+Flower|Oswald:200,300,400,500,600,700|PT+Sans:400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
     
     /* #include<css.font-face.google> */
     
-    .if { font-family: 'Indie Flower', cursive !important ; }
+    .if { font-family : 'Indie Flower', cursive !important ; }
     
-    .pt { font-family: 'PT Sans', sans-serif !important ; }
+    .pt { font-family : 'PT Sans', sans-serif !important ; }
     
-    .oswald { font-family: 'Oswald', sans-serif !important ; }
+    .oswald { font-family : 'Oswald', sans-serif !important ; }
     
-    .roboto { font-family: 'Roboto', sans-serif !important ; }
+    .roboto { font-family : 'Roboto', sans-serif !important ; }
 
     .mj { font-family:Microsoft JhengHei !important ; }
 
     /* #include<css.color> */
 
-    .c-white { color: white ; }
+    .white { color : white ; }
 
-    .c-black { color: black ; }
+    .black { color : black ; }
 
-    .c-gray { color: #7c7c7c}
+    .gray { color : #7c7c7c}
 
-    .c-darkgray { color: #474747 ; }
+    .darkgray { color : #474747 ; }
 
-    .c-red { color: #ce2323 ; }
+    .red { color : #ce2323 ; }
 
-    .c-darkred { color: #931919 ; }
+    .darkred { color : #931919 ; }
 
-    .c-orange { color: #ff7200}
+    .orange { color : #ff7200}
 
-    .c-darkorange { color: #d16b19}
+    .darkorange { color : #d16b19}
 
-    .c-yellow { color: #fcde32 ; }
+    .yellow { color : #fcde32 ; }
 
-    .c-darkyellow { color: #bfbf01 ; }
+    .darkyellow { color : #bfbf01 ; }
 
-    .c-green { color: #4ecc00 ; }
+    .green { color : #4ecc00 ; }
 
-    .c-darkgreen { color: #318200 ; }
+    .darkgreen { color : #318200 ; }
 
-    .c-blue { color: #2671cc ; }
+    .blue { color : #2671cc ; }
 
-    .c-darkblue { color: #1a5193 ; }
+    .darkblue { color : #1a5193 ; }
 
-    .c-purple { color: #9316f9 ; }
+    .purple { color : #9316f9 ; }
 
-    .c-drakpurple { color: #570d93 ; }
+    .drakpurple { color : #570d93 ; }
 
-    .c-pink { color: #ff63d0 ; }
+    .pink { color : #ff63d0 ; }
 
-    .c-darkpink { color: #ff00b2 ; }
+    .darkpink { color : #ff00b2 ; }
 
-    .c-main { color: #33353a ; }
+    .main { color : #33353a ; }
 
-    .c-second { color: #464646 ; }
+    .second { color : #464646 ; }
 
     /* #include<css.background> */
 
-    .bg-white { background: white ; }
+    .bg-white { background : white ; }
 
-    .bg-black { background: black ; }
+    .bg-black { background : black ; }
 
-    .bg-gray { background: #7c7c7c}
+    .bg-gray { background : #7c7c7c}
 
-    .bg-darkgray { background: #474747 ; }
+    .bg-darkgray { background : #474747 ; }
 
-    .bg-red { background: #ce2323 ; }
+    .bg-red { background : #ce2323 ; }
 
-    .bg-darkred { background: #931919 ; }
+    .bg-darkred { background : #931919 ; }
 
-    .bg-orange { background: #ff7200}
+    .bg-orange { background : #ff7200}
 
-    .bg-darkorange { background: #d16b19}
+    .bg-darkorange { background : #d16b19}
 
-    .bg-yellow { background: #fcde32 ; }
+    .bg-yellow { background : #fcde32 ; }
 
-    .bg-darkyellow { background: #bfbf01 ; }
+    .bg-darkyellow { background : #bfbf01 ; }
 
-    .bg-green { background: #4ecc00 ; }
+    .bg-green { background : #4ecc00 ; }
 
-    .bg-darkgreen { background: #318200 ; }
+    .bg-darkgreen { background : #318200 ; }
 
-    .bg-blue { background: #2671cc ; }
+    .bg-blue { background : #2671cc ; }
 
-    .bg-darkblue { background: #1a5193 ; }
+    .bg-darkblue { background : #1a5193 ; }
 
-    .bg-purple { background: #9316f9 ; }
+    .bg-purple { background : #9316f9 ; }
 
-    .bg-drakpurple { background: #570d93 ; }
+    .bg-drakpurple { background : #570d93 ; }
 
-    .bg-pink { background: #ff63d0 ; }
+    .bg-pink { background : #ff63d0 ; }
 
-    .bg-darkpink { background: #ff00b2 ; }
+    .bg-darkpink { background : #ff00b2 ; }
 
-    .bg-main { background: #33353a ; }
+    .bg-main { background : #33353a ; }
 
-    .bg-second { background: #464646 ; }
+    .bg-second { background : #464646 ; }
 
     /* #include<css.font> */
 
-    .align-center { text-align: center !important ; }
+    .align-center { text-align : center !important ; }
 
-    .align-left { text-align: left !important ; }
+    .align-left { text-align : left !important ; }
 
-    .align-right { text-align: right !important ; }
+    .align-right { text-align : right !important ; }
 
-    .fsize-24 { font-size: 24px !important ; }
+    .fsize-24 { font-size : 24px !important ; }
 
-    .fsize-20 { font-size: 20px !important ; }
+    .fsize-20 { font-size : 20px !important ; }
 
-    .fsize-18 { font-size: 18px !important ; }
+    .fsize-18 { font-size : 18px !important ; }
 
-    .fsize-16 { font-size: 16px !important ; }
+    .fsize-16 { font-size : 16px !important ; }
 
-    .fsize-15 { font-size: 15px !important ; }
+    .fsize-15 { font-size : 15px !important ; }
 
-    .fsize-14 { font-size: 14px !important ; }
+    .fsize-14 { font-size : 14px !important ; }
 
-    .fsize-12 { font-size: 12px !important ; }
+    .fsize-12 { font-size : 12px !important ; }
 
-    .bold-100 { font-weight: 100 ; }
+    .bold-100 { font-weight : 100 ; }
 
-    .bold-200 { font-weight: 200 ; }
+    .bold-200 { font-weight : 200 ; }
 
-    .bold-300 { font-weight: 300 ; }
+    .bold-300 { font-weight : 300 ; }
 
-    .bold-400 { font-weight: 400 ; }
+    .bold-400 { font-weight : 400 ; }
 
-    .bold-500 { font-weight: 500 ; }
+    .bold-500 { font-weight : 500 ; }
 
-    .bold-600 { font-weight: 600 ; }
+    .bold-600 { font-weight : 600 ; }
 
-    .bold-700 { font-weight: 700 ; }
+    .bold-700 { font-weight : 700 ; }
 
-    .bold-800 { font-weight: 800 ; }
+    .bold-800 { font-weight : 800 ; }
     
-    .bold-900 { font-weight: 900 ; }
+    .bold-900 { font-weight : 900 ; }
 
-    .bold-bold { font-weight: bold ; }
+    .bold-bold { font-weight : bold ; }
 
-    .bold-bolder { font-weight: bolder ; }
+    .bold-bolder { font-weight : bolder ; }
 
-    .text-shadow { text-shadow: 2px 2px gray ; }
+    .text-shadow { text-shadow : 2px 2px gray ; }
 
     .nowhite-space { white-space:nowrap ; }
 
-    .lsp-1 { letter-spacing: 1px ; }
+    .lsp-1 { letter-spacing : 1px ; }
 
-    .lsp-2 { letter-spacing: 2px ; }
+    .lsp-2 { letter-spacing : 2px ; }
     
-    .lsp-3 { letter-spacing: 3px ; }
+    .lsp-3 { letter-spacing : 3px ; }
     
-    .lsp-4 { letter-spacing: 4px ; }
+    .lsp-4 { letter-spacing : 4px ; }
     
-    .lsp-5 { letter-spacing: 5px ; }
+    .lsp-5 { letter-spacing : 5px ; }
     
-    .lsp-6 { letter-spacing: 6px ; }
+    .lsp-6 { letter-spacing : 6px ; }
     
-    .lsp-7 { letter-spacing: 7px ; }
+    .lsp-7 { letter-spacing : 7px ; }
     
-    .lsp-8 { letter-spacing: 8px ; }
+    .lsp-8 { letter-spacing : 8px ; }
     
-    .lsp-9 { letter-spacing: 9px ; }
+    .lsp-9 { letter-spacing : 9px ; }
     
-    .lsp-10 { letter-spacing: 10px ; }
+    .lsp-10 { letter-spacing : 10px ; }
 
     /* #include<css.layout> */
 
-    .radius-1 { border-radius: 1px !important ; }
+    .radius-1 { border-radius : 1px !important ; }
     
-    .radius-2 { border-radius: 2px !important ; }
+    .radius-2 { border-radius : 2px !important ; }
     
-    .radius-3 { border-radius: 3px !important ; }
+    .radius-3 { border-radius : 3px !important ; }
     
-    .radius-4 { border-radius: 4px !important ; }
+    .radius-4 { border-radius : 4px !important ; }
     
-    .radius-5 { border-radius: 5px !important ; }
+    .radius-5 { border-radius : 5px !important ; }
     
-    .radius-6 { border-radius: 6px !important ; }
+    .radius-6 { border-radius : 6px !important ; }
     
-    .radius-7 { border-radius: 7px !important ; }
+    .radius-7 { border-radius : 7px !important ; }
     
-    .radius-8 { border-radius: 8px !important ; }
+    .radius-8 { border-radius : 8px !important ; }
     
-    .radius-9 { border-radius: 9px !important ; }
+    .radius-9 { border-radius : 9px !important ; }
     
-    .radius-10 { border-radius: 10px !important ; }
+    .radius-10 { border-radius : 10px !important ; }
 
-    .padding-8 { padding: 8px !important ; }
+    .padding-8 { padding : 8px !important ; }
 
-    .padding-16 { padding: 16px !important ; }
+    .padding-16 { padding : 16px !important ; }
 
-    .padding-32 { padding: 32px !important ; }
+    .padding-32 { padding : 32px !important ; }
 
-    .margin-16 { margin: 16px !important ; }
+    .margin-16 { margin : 16px !important ; }
 
-    .margin-8 { margin: 8px !important ; }
+    .margin-8 { margin : 8px !important ; }
 
     .margin { margin:auto !important ; }
 
-    .width-5 { width: 5% ; }
+    .width-5 { width : 5% ; }
 
-    .width-8 { width: 8% ; }
+    .width-8 { width : 8% ; }
 
-    .width-10 { width: 10% ; }
+    .width-10 { width : 10% ; }
 
-    .width-15 { width: 15% ; }
+    .width-15 { width : 15% ; }
 
-    .width-20 { width: 20% ; }
+    .width-20 { width : 20% ; }
 
-    .width-25 { width: 25% ; }
+    .width-25 { width : 25% ; }
 
-    .width-30 { width: 30% ; }
+    .width-30 { width : 30% ; }
 
-    .width-35 { width: 35% ; }
+    .width-35 { width : 35% ; }
 
-    .width-40 { width: 40% ; }
+    .width-40 { width : 40% ; }
 
-    .width-45 { width: 45% ; }
+    .width-45 { width : 45% ; }
 
-    .width-50 { width: 50% ; }
+    .width-50 { width : 50% ; }
 
-    .width-55 { width: 55% ; }
+    .width-55 { width : 55% ; }
 
-    .width-60 { width: 60% ; }
+    .width-60 { width : 60% ; }
 
-    .width-65 { width: 65% ; }
+    .width-65 { width : 65% ; }
 
-    .width-70 { width: 70% ; }
+    .width-70 { width : 70% ; }
 
-    .width-75 { width: 55% ; }
+    .width-75 { width : 55% ; }
 
-    .width-80 { width: 80% ; }
+    .width-80 { width : 80% ; }
 
-    .width-85 { width: 85% ; }
+    .width-85 { width : 85% ; }
 
-    .width-90 { width: 90% ; }
+    .width-90 { width : 90% ; }
 
-    .width-95 { width: 95% ; }
+    .width-95 { width : 95% ; }
 
-    .width-100 { width: 100% ; }
+    .width-100 { width : 100% ; }
     
-    .width-auto { width: auto ; }
+    .width-auto { width : auto ; }
 
-    .max-width { max-width: 100% ; }
+    .max-width { max-width : 100% ; }
 
-    .max-height { max-height: 100% ; }
+    .max-height { max-height : 100% ; }
 
-    .height-5 { height: 50px ; }
+    .height-5 { height : 50px ; }
     
-    .height-10 { height: 100px ; }
+    .height-10 { height : 100px ; }
     
-    .height-15 { height: 150px ; }
+    .height-15 { height : 150px ; }
     
-    .height-20 { height: 200px ; }
+    .height-20 { height : 200px ; }
     
-    .height-25 { height: 250px ; }
+    .height-25 { height : 250px ; }
     
-    .height-30 { height: 300px ; }
+    .height-30 { height : 300px ; }
     
-    .height-35 { height: 350px ; }
+    .height-35 { height : 350px ; }
     
-    .height-40 { height: 400px ; }
+    .height-40 { height : 400px ; }
     
-    .height-45 { height: 450px ; }
+    .height-45 { height : 450px ; }
     
-    .height-50 { height: 500px ; }
+    .height-50 { height : 500px ; }
     
-    .height-55 { height: 550px ; }
+    .height-55 { height : 550px ; }
     
-    .height-60 { height: 600px ; }
+    .height-60 { height : 600px ; }
     
-    .height-65 { height: 650px ; }
+    .height-65 { height : 650px ; }
     
-    .height-70 { height: 700px ; }
+    .height-70 { height : 700px ; }
     
-    .height-75 { height: 750px ; }
+    .height-75 { height : 750px ; }
     
-    .height-80 { height: 800px ; }
+    .height-80 { height : 800px ; }
     
-    .height-85 { height: 850px ; }
+    .height-85 { height : 850px ; }
     
-    .height-90 { height: 900px ; }
+    .height-90 { height : 900px ; }
     
-    .height-95 { height: 950px ; }
+    .height-95 { height : 950px ; }
     
-    .height-100 { height: 1000px ; }
+    .height-100 { height : 1000px ; }
 
-    .display-none { display: none ; }
+    .display-none { display : none ; }
 
-    .display-block { display: block ; }
+    .display-block { display : block ; }
 
-    .display-inline { display: inline ; }
+    .display-inline { display : inline ; }
 
-    .display-inlined { display: inline-block ; }
+    .display-inlined { display : inline-block ; }
 
-    .display-table { display: table ; }
+    .display-table { display : table ; }
     
-    .display-flex { display: flex ; }
+    .display-flex { display : flex ; }
 
-    .display-unset { display: unset ; }
+    .display-unset { display : unset ; }
 
     /* #include<css.style> */
 
-    .overflow-s { overflow: scroll ; }
+    .overflow-s { overflow : scroll ; }
 
-    .overflow-h { overflow: hidden ; }
+    .overflow-h { overflow : hidden ; }
 
-    .overflow-v { overflow: visible ; }
+    .overflow-v { overflow : visible ; }
 
-    .overflow-in { overflow: inherit ; }
+    .overflow-in { overflow : inherit ; }
 
-    .overflow-i { overflow: initial ; }
+    .overflow-i { overflow : initial ; }
 	
-    .overflow-a { overflow: auto ; }
+    .overflow-a { overflow : auto ; }
 
-    .valign-t { vertical-align: top !important ; }
+    .valign-t { vertical-align : top !important ; }
 
-    .valign-m { vertical-align: middle !important ; }
+    .valign-m { vertical-align : middle !important ; }
 
-    .valign-b { vertical-align: bottom !important ; }
+    .valign-b { vertical-align : bottom !important ; }
 
-    .valign-tt { vertical-align: text-top !important ; }
+    .valign-tt { vertical-align : text-top !important ; }
 
-    .valign-tb { vertical-align: text-bottom !important ; }
+    .valign-tb { vertical-align : text-bottom !important ; }
 
-    .valign-sub { vertical-align: sub !important ; }
+    .valign-sub { vertical-align : sub !important ; }
 
-    .valign-super { vertical-align: super !important ; }
+    .valign-super { vertical-align : super !important ; }
 
-    .valign-auto { vertical-align: auto !important ; }
+    .valign-auto { vertical-align : auto !important ; }
 
-    .valign-bl { vertical-align: baseline !important ; }
+    .valign-bl { vertical-align : baseline !important ; }
 
-    .unradius { border-radius: unset !important ; }
+    .unradius { border-radius : unset !important ; }
 
-    .unoutline { outline: unset !important ; }
+    .unoutline { outline : unset !important ; }
