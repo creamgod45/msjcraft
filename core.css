@@ -1,6 +1,6 @@
     /* #include<css.import> */
 
-    @import url('https : //fonts.googleapis.com/css?family=Indie+Flower|Oswald : 200,300,400,500,600,700|PT+Sans : 400,400i,700,700i|Roboto : 100,100i,300,300i,400,400i,500,500i,700,700i,900,900i') ;  
+    @import url('https://fonts.googleapis.com/css?family=Indie+Flower|Oswald:200,300,400,500,600,700|PT+Sans:400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i') ;  
     
     /* #include<css.font-face.google> */
     
@@ -50,7 +50,7 @@
 
     .purple { color : #9316f9 ; }
 
-    .drakpurple { color : #570d93 ; }
+    .darkpurple { color : #570d93 ; }
 
     .pink { color : #ff63d0 ; }
 
@@ -100,7 +100,7 @@
 
     .bg-purple { background : #9316f9 ; }
 
-    .bg-drakpurple { background : #570d93 ; }
+    .bg-darkpurple { background : #570d93 ; }
 
     .bg-pink { background : #ff63d0 ; }
 
@@ -121,6 +121,8 @@
     .align-left { text-align : left !important ; }
 
     .align-right { text-align : right !important ; }
+
+    .fsize-72 { font-size : 72px !important ; } 
 
     .fsize-32 { font-size : 32px !important ; }    
     
